@@ -7,5 +7,6 @@ public class App {
         //这个类只负责启动整个程序
         Login l = new Login();
         l.start();
+        int a = 10;
     }
 }
